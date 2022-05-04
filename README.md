@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan Magnuson.
-- 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently attending NAIT, pursuing a diploma in Software Development.
+- 👀 I’m interested in becoming a Software Developer!
+- 🌱 I’m currently attending NAIT, pursuing a diploma in Computer Software Development.
 - 💞️ I’m looking to collaborate on anything that will improve my skills as a developer!
 - 📫 You can contact me by email at logmagns07@gmail.com.
 
