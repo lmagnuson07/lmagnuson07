@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan Magnuson.
 - 👀 I’m interested in front-end development!
-- 🌱 I’m currently attending NAIT, pursuing a diploma in Computer Software Development.
+- 🌱 I’m a NAIT Computer Software Development Graduate.
 - 💞️ I’m looking to collaborate on anything that will improve my skills as a developer!
 - 📫 You can contact me by email at logmagns07@gmail.com.
 
